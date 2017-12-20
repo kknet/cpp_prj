@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/9/12 16:44:00。
+     1>项目“D:\code\zhongan\prj\network\network.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\code\zhongan\sln\..\bin\Debug\network.dll" /INCREMENTAL /NOLOGO /LIBPATH:D:\code\zhongan\sln\..\lib\Debug\ /LIBPATH:D:\code\zhongan\sln\..\inc\boost\lib_vc120 common.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\code\zhongan\sln\..\bin\Debug\network.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\code\zhongan\sln\..\lib\Debug\network.lib" /MACHINE:X86 /DLL Debug\TcpClient.obj
+         Debug\TcpClient_boostasio.obj
+         Debug\TcpMessage.obj
+         Debug\TcpServer.obj
+         Debug\TcpServer_boostasio.obj
+         Debug\TcpSocket.obj
+         Debug\TcpSocket_boostasio.obj
+            正在创建库 D:\code\zhongan\sln\..\lib\Debug\network.lib 和对象 D:\code\zhongan\sln\..\lib\Debug\network.exp
+         network.vcxproj -> D:\code\zhongan\sln\..\bin\Debug\network.dll
+     1>已完成生成项目“D:\code\zhongan\prj\network\network.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.20

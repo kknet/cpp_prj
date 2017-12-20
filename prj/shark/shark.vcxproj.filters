@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Algorithms\DirectSearch\ElitistCMA.cpp">
+      <Filter>src\Algorithms\DirectSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\DirectSearch\CMA.cpp">
+      <Filter>src\Algorithms\DirectSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\DirectSearch\CMSA.cpp">
+      <Filter>src\Algorithms\DirectSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\GradientDescent\AbstractLineSearchOptimizer.cpp">
+      <Filter>src\Algorithms\GradientDescent</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\GradientDescent\BFGS.cpp">
+      <Filter>src\Algorithms\GradientDescent</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\GradientDescent\CG.cpp">
+      <Filter>src\Algorithms\GradientDescent</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\GradientDescent\LBFGS.cpp">
+      <Filter>src\Algorithms\GradientDescent</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\GradientDescent\Rprop.cpp">
+      <Filter>src\Algorithms\GradientDescent</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\GradientDescent\TrustRegionNewton.cpp">
+      <Filter>src\Algorithms\GradientDescent</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\SigmoidFit.cpp">
+      <Filter>src\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\CARTTrainer.cpp">
+      <Filter>src\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\FisherLDA.cpp">
+      <Filter>src\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\KMeans.cpp">
+      <Filter>src\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\LDA.cpp">
+      <Filter>src\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\LinearRegression.cpp">
+      <Filter>src\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\PCA.cpp">
+      <Filter>src\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithms\RFTrainer.cpp">
+      <Filter>src\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Version.cpp">
+      <Filter>src\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\SparseData.cpp">
+      <Filter>src\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\Csv.cpp">
+      <Filter>src\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Softmax.cpp">
+      <Filter>src\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Centroids.cpp">
+      <Filter>src\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\CMAC.cpp">
+      <Filter>src\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Converter.cpp">
+      <Filter>src\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\LinearNorm.cpp">
+      <Filter>src\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\OnlineRNNet.cpp">
+      <Filter>src\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\RBFLayer.cpp">
+      <Filter>src\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\RecurrentStructure.cpp">
+      <Filter>src\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\RNNet.cpp">
+      <Filter>src\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\SigmoidModel.cpp">
+      <Filter>src\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectiveFunctions\ROC.cpp">
+      <Filter>src\ObjectiveFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectiveFunctions\DiscreteLoss.cpp">
+      <Filter>src\ObjectiveFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectiveFunctions\KernelBasisDistance.cpp">
+      <Filter>src\ObjectiveFunctions</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src\Algorithms\DirectSearch">
+      <UniqueIdentifier>{FB52D838-83E3-3D85-87CE-3930F7905561}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Algorithms\GradientDescent">
+      <UniqueIdentifier>{321F0405-A1B0-3039-BAB7-149A0896C753}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8EB852B9-07E8-308B-A80F-742C56D770AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{9125C124-53D3-3513-BE81-0FE2550F7182}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Algorithms">
+      <UniqueIdentifier>{AC558D35-81C8-3D30-9971-2F5D3D175E30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Core">
+      <UniqueIdentifier>{BFF47E65-E152-3EF7-839F-9696C41C58FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Data">
+      <UniqueIdentifier>{7FDEF9E5-3684-3120-B0B0-5E2E5345BAAB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Models">
+      <UniqueIdentifier>{99FB1B19-2A90-3767-8B2A-8232773F82F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ObjectiveFunctions">
+      <UniqueIdentifier>{F840AEDC-05A2-3B92-BEEF-2E954380A8D5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

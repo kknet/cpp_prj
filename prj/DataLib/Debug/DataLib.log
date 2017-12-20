@@ -1,0 +1,11 @@
+﻿生成启动时间为 2017/6/19 16:56:29。
+     1>项目“D:\code\zhongan\prj\DataLib\DataLib.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\code\zhongan\sln\..\inc /IC:\Qt\4.8.6\include /IC:\Qt\4.8.6\include\QtCore /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D DATALIB_EXPORT /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SearchIndex.cpp
+         正在跳过...(未检测到相关更改)
+         SearchIndex.cpp
+     1>已完成生成项目“D:\code\zhongan\prj\DataLib\DataLib.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.15
