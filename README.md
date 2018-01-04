@@ -1,4 +1,4 @@
-#!众安科技 虚拟实验室 量化投研平台
+#!量化投研平台
 
 > ###作者：吴典（Andy.Woo） 联系方式 qq：84020702
 >
@@ -8,17 +8,14 @@
 # 《环境搭建》
 > 1.win7、vs2013、qt5.5.1      下载地址： http://pan.baidu.com/s/1boUNd07
 
-> 2.git clone https://github.com/timinGo/RA-sharedoc 
->在目录wudian/zhongan下面
-
->本工程的svn地址： https://218.81.139.87:4433/svn/zhongan    
-> 只读账户：zhongan 密码：zhongan
+>本工程的svn地址： 
 > 注意："218.81.139.87"如果发生变化，应该按如下步骤操作svn：
 > TortoiseSVN -> Relocate... -> 将ip替换为新的ip   -> 点击OK确认
 
 > 如果SVN Update失败，则需要clean up（将Break Locks选项勾上！）后再Update就行了
 
-> ubuntu:   admin@172.21.64.52   Admin@123        > 定时启停vnpy的存数据功能 ： crontab -l
+> ubuntu:   admin@172.21.64.52   Admin@123        
+> 定时启停vnpy的存数据功能 ： crontab -l
 
 #《一》项目
 
